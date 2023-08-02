@@ -5,3 +5,4 @@ Primeiro exemplo de push e commit no repósitorio remoto.
 
 Segundo commit.
 Terceiro commit.
+Quarto commit.
